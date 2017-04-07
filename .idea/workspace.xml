@@ -45,16 +45,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="json.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Simple/json.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Superhero.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Superhero/Superhero.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -302,12 +292,12 @@
       <workItem from="1491503246707" duration="6511000" />
       <workItem from="1491546065567" duration="805000" />
       <workItem from="1491548517547" duration="1170000" />
-      <workItem from="1491551445566" duration="12078000" />
+      <workItem from="1491551445566" duration="12561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25960000" />
+    <option name="totallyTimeSpent" value="26443000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="23" width="1440" height="873" extended-state="6" />
