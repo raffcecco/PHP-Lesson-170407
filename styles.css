@@ -1,0 +1,39 @@
+
+/* Default font and colour for all HTML elements */
+* {
+    font-family: sans-serif;
+    color: #444;
+}
+
+body {
+    padding: 30px;
+}
+
+/* Main heading, big and bold */
+h1 {
+    font-size: 60px;
+}
+
+/* Default style for form elements */
+input, button {
+    display: block;
+    font-size: 24px;
+    margin-bottom: 12px;
+}
+
+/* Result display, big and red! */
+.result {
+    color: red;
+    font-size: 100px;
+    font-weight: bold;
+    line-height: 120px;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Super hero pic */
+.hero-pic {
+    width:200px;
+    display: block;
+    margin-bottom: 10px;
+}
